@@ -19,6 +19,7 @@
 
 <img src="https://logo.letskhabar.com/img?tool=react&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=angularjs&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=node&acol=gold" width="50px">
 <img src="https://logo.letskhabar.com/img?tool=mongodb&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=postgresql&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=bootstrap&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=sass&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=html&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=css&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=js&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=typescript&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=c-plus&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=python&acol=gold" width="50px">
+
 <img src="https://logo.letskhabar.com/img/?tool=vs-code&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=git&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=github&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=figma&acol=gold" width="50px">
 
 ## ⚙️ &nbsp;GitHub Analytics
