@@ -2,6 +2,9 @@
 
 [<img src="https://logo.letskhabar.com/img?tool=linkedin&acol=gold" width="40px">](https://www.linkedin.com/in/bhupesh-rajpurohit-a59728199/)
 [<img src="https://logo.letskhabar.com/img?tool=globe&acol=gold" width="40px">](https://moshified494.netlify.app/)
+[<img src="https://logo.letskhabar.com/img/?tool=twitter&acol=gold" width="40px">](https://twitter.com/Bhupesh_494)
+[<img src="<img src="https://logo.letskhabar.com/img/?tool=hackerrank&acol=gold" width="40px">](https://www.hackerrank.com/bhupeshpurohit41)
+
 <br />
 
 ### I'm a Full Stack Developer from India.
@@ -10,17 +13,13 @@
 - 🌱 I’m currently mastering JS
 - 🥅 2022 Goals: Learn new skills and improve my current skills.
 - 📝 Reach out to me at: bhupeshrajpurohit94@gmail.com
-- ⚡ Fun fact: I love 👨‍🍳, 🚶‍♂️ & 🏋️‍♂️
+- ⚡ Fun fact: I love 👨‍🍳 🚶‍♂️ & 🏋️‍♂️
   <br />
 
 ### Technologies & Tools:
 
 <img src="https://logo.letskhabar.com/img?tool=react&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=angularjs&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=node&acol=gold" width="50px">
-<img src="https://logo.letskhabar.com/img?tool=mongodb&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=postgresql&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=bootstrap&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=sass&acol=gold" width="50px">
-
-<img src="https://logo.letskhabar.com/img?tool=html&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=css&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=js&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=c-plus&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=python&acol=gold" width="50px">
-
-<img src="https://logo.letskhabar.com/img/?tool=vs-code&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=git&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=github&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=figma&acol=gold" width="50px">
+<img src="https://logo.letskhabar.com/img?tool=mongodb&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=postgresql&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=bootstrap&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=sass&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=html&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=css&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=js&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=typescript&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=c-plus&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=python&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=vs-code&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=git&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=github&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img/?tool=figma&acol=gold" width="50px">
 
 ## ⚙️ &nbsp;GitHub Analytics
 
